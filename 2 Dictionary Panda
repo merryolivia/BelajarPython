@@ -1,4 +1,4 @@
-#------------Dictionary---------------
+#------------Dictionary--------------
 
 # Definition of countries and capital
 countries = ['spain', 'france', 'germany', 'norway']
